@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Kalyani-2222
 -  interested in Data Analytics,AI,ML
 -  currently learning AI & ML
--  looking forward to collaborate technically
+-  looking forward to collaborate technically (https://www.linkedin.com/in/kalyani-k-285698252?utm_s)
 - 😄 Pronouns: she/her
+
+
+💼 Projects
 
 
 <!---
