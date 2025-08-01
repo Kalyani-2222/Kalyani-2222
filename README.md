@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kalyani-2222
-- 👀 I’m interested in Data Analytics,AI,ML
-- 🌱 I’m currently learning AI & ML
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me-  via linkedin(https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) for giving me suggestions to enchance technology 
+-  interested in Data Analytics,AI,ML
+-  currently learning AI & ML
+-  looking forward to collaborate technically
 - 😄 Pronouns: she/her
 
 
